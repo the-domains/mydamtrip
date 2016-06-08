@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[myDamTrip]]></title>
-        <description><![CDATA[myDamTrip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Tales of My Dam Trips]]></title>
+        <description><![CDATA[The Tales of My Dam Trips]]></description>
+        <link>https://thegrid.ai/mydamtrip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 00:03:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 00:10:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mydamtrip/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5 Things to Avoid in Thailand]]></title>
             <description><![CDATA[<p>Traveling to Thailand was an eye opening experience. Seeing the huge differences in cultures between the US and Thailand but I did learn, quite quickly, certain things that should be avoided.</p>]]></description>
-            <link>undefined5-things-to-avoid-in-thailand/index.html</link>
+            <link>https://thegrid.ai/mydamtrip/5-things-to-avoid-in-thailand/index.html</link>
             <guid isPermaLink="false">90d36cd4-6135-4df1-9625-1199bac0469d</guid>
-            <pubDate>Wed, 08 Jun 2016 00:03:27 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 00:09:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
