@@ -8,18 +8,20 @@ description: >-
   Traveling to Thailand was an eye opening experience. Seeing the huge
   differences in cultures between the US and Thailand but I did learn, quite
   quickly, certain things that should be avoided.
-datePublished: '2016-06-08T00:03:27.205Z'
-dateModified: '2016-06-08T00:02:43.898Z'
+datePublished: '2016-06-08T00:09:31.329Z'
+dateModified: '2016-06-08T00:09:22.834Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-5-things-to-avoid-in-thailand.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-5-things-to-avoid-in-thailand.md
 url: 5-things-to-avoid-in-thailand/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99439a74-62b4-4cfa-9fd8-8e372f833fef.jpg)
+
 Traveling to Thailand was an eye opening experience. Seeing the huge differences in cultures between the US and Thailand but I did learn, quite quickly, certain things that should be avoided.
 
 1.) Un-metered Taxis.
